@@ -1,0 +1,16 @@
+.idea
+.classpath
+.project
+bank-scraper-grailsPlugins.iml
+bank-scraper.iml
+wrapper
+target
+grailsw*
+.slcache/
+out/
+scrappy-grailsPlugins.iml
+scrappy.iml
+web-app/lendingmantraFiles/
+web-app/ScrapyFiles/
+web-app/ScrapyFilesTemp/
+*.log
